@@ -6,6 +6,8 @@ TagManager:
   tags:
   - leftScore
   - rightScore
+  - doubleleft
+  - doubleright
   layers:
   - Default
   - TransparentFX
